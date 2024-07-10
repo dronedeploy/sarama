@@ -1,4 +1,4 @@
-module github.com/team-rocos/sarama
+module github.com/dronedeploy/sarama
 
 go 1.13
 
